@@ -1,6 +1,6 @@
 #### Radiation Therapy
 
-# Geometric Pptimization of Dose Distribution in Spatially Fractionated Radiation Therapy
+# Geometric Pptimization of Dose Distribution in SFRT
 
 This repository contains the code accompanying the following article:
 
